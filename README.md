@@ -13,7 +13,6 @@ Hi there, I'm Harshit Goel! 👋
 
 ## 🎯 Goals
 - 📚 Deepen my expertise in Cybersecurity and contribute to real-world projects.
-- 🛡️ Secure the GitHub Student Developer Pack to access tools that will help me grow as a developer.
 - 🌐 Collaborate on open-source projects and contribute to the tech community.
   
 ---
