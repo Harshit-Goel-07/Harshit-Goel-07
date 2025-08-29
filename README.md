@@ -24,8 +24,8 @@ Hi there, I'm Harshit Goel! 👋
 ---
 
 ## 🔧 Technologies & Tools
-- **Languages**: Python, C, HTML, SQL
-- **Tools**: Git, Mendeley, Visual Studio Code
+- **Languages**: Python, C, Java, HTML, CSS, JavaScript, SQL
+- **Tools**: Kali Linux, Git, Mendeley, Visual Studio Code
 
 ---
 
