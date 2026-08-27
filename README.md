@@ -4,9 +4,8 @@ Hi there, I'm Harshit Goel! 👋
 
 
 ## 👨‍💻 About Me
-- 🎓 I'm a 3rd-year BTech student at UPES Dehradun, pursuing Computer Science and Engineering (CSE).
-- 🔐 I'm passionate about Cybersecurity and have completed certifications from IBM SkillsBuild and Microsoft in this domain.
-- 💻 Currently learning HTML, CSS, JavaScript, and expanding my knowledge in SQL and MySQL.
+- 🎓 I'm a 4th-year BTech student at UPES Dehradun, pursuing Computer Science and Engineering (CSE).
+- 🔐 I'm passionate about Cybersecurity.
 - 🌱 Always excited to learn new technologies and solve complex problems.
 
 ---
